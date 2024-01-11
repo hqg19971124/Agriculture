@@ -1,0 +1,11 @@
+{
+        "0": "Alternaria_Boltch",
+        "1": "Apple___Apple_scab",
+        "2": "Apple___Black_rot",
+        "3": "Apple___Cedar_apple_rust",
+        "4": "Apple___healthy",
+        "5": "Brown_Spot",
+        "6": "Grey_spot",
+        "7": "Mosaic",
+        "8": "Rust"
+}
